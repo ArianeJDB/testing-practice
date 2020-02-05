@@ -1,0 +1,1 @@
+export const fakeList = `<li class="list_item"><img src="https://cdn.shopify.com/s/files/1/0014/2648/9388/products/bluefin-home-decor-studio-ghibli-my-neighbor-totoro-3d-puzzle-5598257414188_2000x2000.jpg?v=1565004823" class="movie_img"><h2>Castle in the Sky</h2></li>`
